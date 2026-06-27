@@ -28,3 +28,8 @@ The waveform verifies the correct operation of all ALU functions.
 # Waveform
 
 ![Waveform](waveform(alu).png)
+#RTL Schematic
+<img width="606" height="535" alt="RTL schmatic" src="https://github.com/user-attachments/assets/5231bf27-6e59-4458-b1fd-355b2d27893e" />
+
+<img width="446" height="543" alt="Screenshot 2026-06-27 175515" src="https://github.com/user-attachments/assets/857e3307-3551-4d1f-85b2-17acf7d3c2d7" />
+

@@ -25,3 +25,6 @@ This project implements a 4-bit Arithmetic Logic Unit (ALU) using Verilog HDL. T
 
 # Simulation Result
 The waveform verifies the correct operation of all ALU functions.
+# Waveform
+
+![Waveform](waveform(alu).png)
